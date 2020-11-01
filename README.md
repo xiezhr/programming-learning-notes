@@ -36,47 +36,89 @@
      <a href="https://space.bilibili.com/305330347"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical.svg" alt="哔哩哔哩"></a> 
    </p>
 
-   
 
-   # 目录
 
-   - [Java](#java)
-     - [Java基础](#基础)
-     - [Java中级](#java中级)
-     - [Java高级](#Java高级)
-     - [Java应用](#Java应用)
-     - [JavaEE](#JavaEE)
-     - [Java框架](#Java框架)
-     - [JVM](#jvm)
-     - [其他](#其他)
-   - [数据库](#数据库)
-     - [Oracle](#Oracle)
-     - [Mysql](#Mysql)
-     - [postgresql](#postgresql)
-     - [MongoDB](#MongoDB)
-     - [SQLite](#SQLite )
-   - [操作系统](#操作系统)
-     - [Linux](#lLinux)
-   - [前端部分](#前端部分)
-     - [HTML](#HTML)
-     - [CSS](#CSS)
-     - [JavaScript](#JavaScript)
-     - [HTML DOM](#HTML DOM)
-     - [Ajax](#Ajax)
-     - [JSON](#JSON)
-     - [node.js](#node.js)
-     - [Vue.js](#vue.js)
-     - [JQuery](#JQuery)
-     - [BootStrap](#BootStrap)
-   - [工具和中间件](#工具和中间件)
-     - [weblogic](#weblogic)
-     - [tomcat](#tomcat)
-     - [Nginx](#Nginx)
-     - [Eclipse](#eclipse)
-     - [Idea](#idea)
-     - [Git](#Git)
-     - [Maven](#Maven)
-     - [Redis](#Redis)
+# 目录
+
+## [java](#java)
+
+###  [java 基础](#java基础)
+
+### [Java中级](#java中级)
+
+### [Java高级](#Java高级)
+
+### [Java应用](#Java应用)
+
+### [JavaEE](#JavaEE)
+
+### [Java框架](#Java框架)
+
+### [JVM](#jvm)
+
+### [其他](#其他)
+
+## [数据库](#数据库)
+
+### [Oracle](#Oracle)
+
+### [Mysql](#Mysql)
+
+### [postgresql](#postgresql)
+
+### [MongoDB](#MongoDB)
+
+### [SQLite](#SQLite )
+
+## [操作系统](#操作系统)
+
+### [Linux](#lLinux)
+
+## [前端部分](#前端部分)
+
+### [HTML](#HTML)
+
+### [CSS](#CSS)
+
+### [JavaScript](#JavaScript)
+
+### [HTML DOM](#HTML DOM)
+
+### [Ajax](#Ajax)
+
+### [JSON](#JSON)
+
+### [node.js](#node.js)
+
+### [Vue.js](#vue.js)
+
+### [JQuery](#JQuery)
+
+### [BootStrap](#BootStrap)
+
+## [工具和中间件](#工具和中间件)
+
+### [weblogic](#weblogic)
+
+### [tomcat](#tomcat)
+
+### [Nginx](#Nginx)
+
+### [Eclipse](#eclipse)
+
+###  [Idea](#idea)
+
+### [Git](#Git)
+
+### [Maven](#Maven)
+
+### [Redis](#Redis)
+
+
+
+
+
+
 
 
 
