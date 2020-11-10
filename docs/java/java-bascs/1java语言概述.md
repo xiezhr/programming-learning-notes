@@ -1,4 +1,4 @@
-[Java简介](#Java简介)
+[1Java简介](#Java简介)
 
 - [1.1Java发展史](#Java发展史)
 - [1.2 Java语言特点](#Java语言特点)
